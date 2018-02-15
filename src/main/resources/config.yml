@@ -1,0 +1,24 @@
+baseDamage: 5 #Gets multiplied by the bow force which is 0.1:1.0
+hitBox: 2 #Hit box of the entity in blocks.
+runTime: 5 #This will stop the sound and cancel the task after x seconds
+types:
+  PIG:
+    sound: 'ENTITY_PIG_DEATH' #Default sound is always ENTITY_GHAST_HURT
+  PIG_ZOMBIE:
+    sound: 'ENTITY_PIG_DEATH'
+  CREEPER:
+    sound: 'ENTITY_CREEPER_PRIMED'
+  SHEEP:
+    sound: 'ENTITY_SHEEP_AMBIENT'
+  GHAST:
+    sound: 'ENTITY_GHAST_HURT'
+  COW:
+    sound: 'ENTITY_COW_DEATH'
+  HORSE:
+    sound: 'ENTITY_HORSE_ANGRY'
+  LLAMA:
+    sound: 'ENTITY_LLAMA_SWAG' #No idea what it is but why the hell not
+  ENDERMAN:
+    sound: 'ENTITY_PARROT_IMITATE_ENDERMAN'
+  TURTLE:
+    sound: 'ENTITY_COW_DEATH'

@@ -1,0 +1,4 @@
+name: MobArrows
+version: ${project.version}
+main: net.awesomepowered.mobarrows.MobArrows
+authors: [LaxWasHere]
